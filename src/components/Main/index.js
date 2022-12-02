@@ -12,21 +12,6 @@ export default function Main() {
 
   const res = Math.floor(Math.random() * (100 - 1 + 1)) + 1;
 
-  // const data = {
-  //   firstPropostion: [
-  //     "have telekinesis ",
-  //     "be royalty 1,000 years ago",
-  //     "find true love today",
-  //     "be in jail for five years",
-  //   ],
-  //   secondProposition: [
-  //     "have telepathy",
-  //     "average person today",
-  //     "win the lottery next year",
-  //     "be in a coma for a decade",
-  //   ],
-  // };
-
   const data = [
     ["have telekinesis", "have telepathy"],
     ["be royalty 1,000 years ago", "average person today"],
